@@ -1,6 +1,6 @@
 # Svitlana Reuka #
 
-![My Avatar](image-1.png)  
+![My Avatar](cat-programmer.jpg)  
 >Learning never exhausts my mind
 
 ### Contacts ###  
@@ -12,19 +12,19 @@ I am a third-year Social Project Management student with practical experience in
 
 ## Skills ##  
 - Technical
-    1. HTML
-    2. Databases (structure and data relationships)
-    3. REST APIs
-    4. Agile
+    - HTML
+    - Databases (structure and data relationships)
+    - REST APIs
+    - Agile
 - Analytical
-    1. Requirements
-    2. Logical thinking
-    3. Structure complex information
+    - Requirements
+    - Logical thinking
+    - Structure complex information
 - Soft
-    1. Teamwork
-    2. Self-study
-    3. Adaptability
-    4. Responsibility
+    - Teamwork
+    - Self-study
+    - Adaptability
+    - Responsibility
 
 ## Code example ##  
 ```js
